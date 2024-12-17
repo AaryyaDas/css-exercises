@@ -1,0 +1,21 @@
+.gay{
+    background-color: pink;
+    font-size: 18px;
+    font-family: "Dejavu Sans", sans;
+    font-weight: 500;
+}
+
+.gay.cool{
+    font-size: 32px;
+}
+
+#light{
+    color: blue;
+    font-size: 40px;
+}
+
+#dark{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 18px;
+}
